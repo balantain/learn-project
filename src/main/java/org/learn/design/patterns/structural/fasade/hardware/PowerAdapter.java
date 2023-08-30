@@ -9,7 +9,7 @@ public class PowerAdapter {
             System.out.println("Power is turning on");
         } else {
             isOn = false;
-            System.out.println("Power is turning of");
+            System.out.println("Power is turning off");
         }
     }
 
