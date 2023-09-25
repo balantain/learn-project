@@ -2,7 +2,7 @@ package org.learn.design.patterns.structural.decorator.decorators;
 
 import org.learn.design.patterns.structural.decorator.printers.Printer;
 
-public class PrinterDecorator implements Printer {
+public abstract class PrinterDecorator implements Printer {
     private Printer printer;
 
     public PrinterDecorator(Printer printer) {
