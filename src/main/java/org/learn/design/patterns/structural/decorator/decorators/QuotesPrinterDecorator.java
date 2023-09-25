@@ -1,6 +1,6 @@
 package org.learn.design.patterns.structural.decorator.decorators;
 
-import org.learn.design.patterns.structural.decorator.printers.Printer;
+import org.learn.design.patterns.structural.decorator.models.Printer;
 
 public class QuotesPrinterDecorator extends PrinterDecorator {
 

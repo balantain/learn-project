@@ -1,4 +1,4 @@
-package org.learn.design.patterns.structural.decorator.printers;
+package org.learn.design.patterns.structural.decorator.models;
 
 public class JetPrinter implements Printer {
     @Override
